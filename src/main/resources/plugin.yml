@@ -1,0 +1,10 @@
+name: Bank
+version: 1.0.0
+author: CeydaVardar
+api-version: 1.13
+main: com.ceydavardar.bankplus.BankPlus
+commands:
+  bank:
+    description: Main command
+    aliases:
+      - bankplus
